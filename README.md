@@ -7,11 +7,17 @@ Each subfolder is named according to the characteristic quantity qE/m^2, which i
 Each .txt file corresponds to the following:
 
 `A1_*` - gauge field
-`deltaA1_*` - perturbed gauge field 
+
+`deltaA1_*` - perturbed gauge field
+
 `E1_*` - electric field
+
 `E2_*` - electric field with initial condition given by "E0 + 10^-3"
+
 `deltaE1_*` - perturbed electric field
+
 `Jq1_*` - quantum current
+
 `deltaJq1_*` - perturbed quantum current
 
 Each .txt file is just one column of data for the relevant quantity corresponding to a range of times.
